@@ -1,5 +1,5 @@
 % Image and Sample Size
-I = imread('img/trees1.png');
+I = imread('img/trees01.png');
 samples = 75;
 
 % Locations

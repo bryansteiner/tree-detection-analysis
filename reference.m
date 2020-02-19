@@ -3,7 +3,7 @@ I = imread('img/reference.png');
 
 red = I(:,:,1);
 green = I(:,:,2);
-bblue = I(:,:,3);
+blue = I(:,:,3);
 
 lab = rgb2lab(I);
 L = lab(:,:,1);

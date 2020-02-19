@@ -1,5 +1,5 @@
 % Image - insert the name
-I = imread('img/trees1.png');
+I = imread('img/trees01.png');
 [x,y,z] = size(I);
 
 
